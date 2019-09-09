@@ -1,9 +1,14 @@
 * 原则
   * [对齐](pages/principle/align)
   * [间距](pages/principle/space)
+  * [重复](pages/principle/repeat)
   * [直截了当](pages/principle/direct)
   
 * 视觉
-  * [11](teach/js/object)
+  * [色彩](pages/vision/color)
+  * [字体](pages/vision/font)
+  * [图标](pages/vision/icon)
+  * [按钮](pages/vision/button)
+  * [投影](pages/vision/shadow)
   
-* 交互
+* 设计资源
