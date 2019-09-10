@@ -39,7 +39,9 @@
     <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
     <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
     <script>
+        var title = window.location.pathname.substr(0, 50);
         const gitalk = new Gitalk({
+            id: title,
             clientID: 'fe136e7a3407ddf745fe',
             clientSecret: '3418dd99415ae93f7ab2e5a9d8bd68a5860261b6',
             repo: 'DesignLanguage',
