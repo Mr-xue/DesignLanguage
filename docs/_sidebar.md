@@ -2,7 +2,6 @@
   * [对齐](pages/principle/align)
   * [间距](pages/principle/space)
   * [重复](pages/principle/repeat)
-  * [直截了当](pages/principle/direct)
   
 * 视觉
   * [色彩](pages/vision/color)
@@ -12,3 +11,4 @@
   * [投影](pages/vision/shadow)
   
 * 设计资源
+  * [资源](pages/design/design)
